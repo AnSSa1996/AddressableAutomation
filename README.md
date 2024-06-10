@@ -1,4 +1,3 @@
-![image](https://github.com/AnSSa1996/AddressableAutomation/assets/48550461/2aca2c0e-088c-4044-81a7-c83a548f0a12)# AddressableAutomation
 모든 파일에 대한 어드레서블 라벨을 폴더별로 그룹화하는 매니저입니다.
 
 
